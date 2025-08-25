@@ -14,12 +14,6 @@ Hey there, I'm Arjuna Kurniawan, a passionate developer looking for collective i
 - 🚀 Most of my projects are in TypeScript, indicating my proficiency in the language.
 - 📊 Total of 5 commits, reflecting a steady and focused coding approach.
 
-### Projects Showcase
-
-Here are a few of my noteworthy projects:
-- [Books-Api](https://github.com/Arjunakurniawan/Books-Api) - 1 ⭐
-- [inventory-API](https://github.com/Arjunakurniawan/inventory-API) - 1 ⭐
-
 ### GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Arjunakurniawan)
@@ -29,8 +23,7 @@ Here are a few of my noteworthy projects:
 ### Contact Me
 
 📫 Reach out to me:
-- 📧 Email: arjuna.kurniawan@example.com
-- 🌐 Website: [arjunakurniawan.dev](https://arjunakurniawan.dev)
+- 📧 Email: arjunakurniawan686@gmail.com
 - 🔗 LinkedIn: [Arjuna Kurniawan](https://www.linkedin.com/in/arjunakurniawan/)
 
 ### Let's Connect!
