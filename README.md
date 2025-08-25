@@ -18,7 +18,6 @@ Hey there, I'm Arjuna Kurniawan, a passionate developer looking for collective i
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Arjunakurniawan)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunakurniawan)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arjunakurniawan)](https://github.com/Arjunakurniawan)
 
 ### Contact Me
 
